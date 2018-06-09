@@ -7,13 +7,7 @@ set python program to start at boot
 
 [Desktop Entry]
 
-Name=example
-
-Comment=My Python Program
-
-Exec=python /home/pi/example.py
-
-Icon=/home/pi/example.png
+Exec=python /home/pi/mycar.py
 
 Terminal=false
 
