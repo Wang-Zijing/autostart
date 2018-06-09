@@ -6,6 +6,7 @@ set python program to start at boot
 打开xxx.desktop文件，把下面的内容复制进去：
 
 [Desktop Entry]
+
 Name=example
 
 Comment=My Python Program
