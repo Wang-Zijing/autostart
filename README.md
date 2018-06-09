@@ -7,7 +7,7 @@ set python program to start at boot
 
 [Desktop Entry]
 
-Name=mycar
+Name=robot
 
 Exec=python /home/pi/mycar.py
 
